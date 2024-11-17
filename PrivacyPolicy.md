@@ -28,9 +28,11 @@ Third-Party Services Used:
 4. Data Storage and Security
 
 a. Local Data
+
 No data is stored locally or uploaded to external servers in this version of the app. Custom settings for mood preferences are saved locally on the user’s device and reset when the app is refreshed.
 
 b. Security
+
 We implement reasonable measures to secure your data during transmission. However, no transmission over the internet is entirely secure, and users should exercise caution when using the app.
 
 5. Children’s Privacy
