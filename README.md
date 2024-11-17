@@ -17,7 +17,7 @@ The Mood Weather App allows users to check weather information by city, providin
 
 ## Contact
 
-For any questions or feedback regarding this privacy policy, please [contact us](mailto:shahidwork18@gmail.com) or visit our support page.
+For any questions or feedback regarding this privacy policy, please [contact us](mailto:info@moodweatherapp.com) or visit our support page.
 
 ---
 
